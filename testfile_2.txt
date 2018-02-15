@@ -1,0 +1,8 @@
+this is 1st file.
+learning git following commands:
+- status
+- add
+- commit
+
+new file 2
+learning branching concept
